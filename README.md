@@ -37,3 +37,4 @@ Gatavošanas aplikācija Android telefoniem, bet varbūt nākotnē arī Iphone. 
     <td><img src="screenshots/4.jpg"/></td>
   </tr>
 </table>
+
