@@ -13,28 +13,4 @@ Gatavošanas aplikācija Android telefoniem, bet varbūt nākotnē arī Iphone. 
       
 # Demo Aplikācija
 
-<p align="center">
-  <a href="https://github.com/achmadqomarudin/FoodRecipes/releases/latest/download/app-demo.apk">
-    <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
-  </a>
-</p>
-
-<table style="width:100%">
-  <tr>
-    <th>Example 1</th>
-    <th>Example 2</th>
-  </tr>
-  <tr>
-    <td><img src="screenshots/1.gif"/></td>
-    <td><img src="screenshots/2.jpg"/></td>
-  </tr>
-  <tr>
-    <th>Example 3</th>
-    <th>Example 4</th>
-  </tr>
-  <tr>
-    <td><img src="screenshots/3.jpg"/></td>
-    <td><img src="screenshots/4.jpg"/></td>
-  </tr>
-</table>
 
