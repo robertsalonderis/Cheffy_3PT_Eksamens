@@ -11,6 +11,6 @@ Gatavošanas aplikācija Android telefoniem, bet varbūt nākotnē arī Iphone. 
 - [x] Lokālais Cheffy projekts izvietots GitHub
 - [x] izveidot README.md failu
       
-# Demo Aplikācija
+
 
 
